@@ -1,1 +1,0 @@
-# database-gas-ecommerce-lp

@@ -1,0 +1,19 @@
+{
+  "name": "database-gas-ecommerce-lp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielfcollier/database-gas-ecommerce-lp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielfcollier/database-gas-ecommerce-lp/issues"
+  },
+  "homepage": "https://github.com/danielfcollier/database-gas-ecommerce-lp#readme"
+}
