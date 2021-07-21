@@ -1,8 +1,9 @@
 # Database for Landing Page for E-commerce Store
 
-Technologies: Google Apps Script (JS) and Google Clasp.
+Syntax: Apps Script and JS ES6+
 
 Developed as part of the training Hiring Coders provided by VTEX:
+
 - 1st challenge
 
 ## Demo Page
